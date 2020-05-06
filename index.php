@@ -2,4 +2,4 @@
 $a = 5;
 $6 = 0;
 
-echo "Hello World!".$a;
+echo "Hello World!" . " blah";
