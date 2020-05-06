@@ -1,5 +1,5 @@
 <?php
 $a = 5;
-$6 = 0;
+$b = 0;
 
 echo "Hello World!" . " blah";
