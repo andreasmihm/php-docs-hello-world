@@ -2,4 +2,4 @@
 $a = 5;
 $b = 0;
 
-echo "Hello World!" . $b/$a;
+echo "Hello World!" . $a/$b;
